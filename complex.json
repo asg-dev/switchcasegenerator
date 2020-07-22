@@ -1,0 +1,18 @@
+{
+    "use": 1,
+    "types": {
+        "simple-if-assign-switch" : {
+            "switch-variable-name": "productName",
+            "assign-variable-name": "data",
+            "require-break": true,
+            "require-default": true
+        },
+        "custom-code-block-switch": {
+            "switch-variable-name": "productName",
+            "code-skeleton": "// Enter code skeleton here",
+            "number-of-repetitions": 5,
+            "require-break": true,
+            "require-default": true
+        }
+    }
+}

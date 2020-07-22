@@ -1,0 +1,6 @@
+{
+    "switch-variable-name": "productName",
+    "assign-variable-name": "data",
+    "require-break": true,
+    "require-default": true
+}

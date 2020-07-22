@@ -1,0 +1,19 @@
+switch (productName) {
+	 case <<expr>>
+		// Enter code skeleton here
+		break
+	 case <<expr>>
+		// Enter code skeleton here
+		break
+	 case <<expr>>
+		// Enter code skeleton here
+		break
+	 case <<expr>>
+		// Enter code skeleton here
+		break
+	 case <<expr>>
+		// Enter code skeleton here
+		break
+	default:
+		// add your default code here
+}
