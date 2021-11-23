@@ -2,6 +2,7 @@ const fs = require('fs')
 const complex = require('./complex.json')
 const use = complex.use;
 
+// setting use from configs file
 if (use == 1) {
     const file = fs.readFileSync('extracted.txt', 'utf-8')
 
